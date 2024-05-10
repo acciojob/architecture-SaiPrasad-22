@@ -1,1 +1,33 @@
-/*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:lightgray;
+}
+
+.imageContainer img{
+	width:50%;
+}
+
+table tr td{
+	border: 1px solid black;
+}
+
+
+
+.FirstColumn{
+	width:200px;
+}
+.FirstColumn img{
+	width:100%;
+}
+
+.MiddleColumn{
+	text-align:center;
+	width:600px;
+}
+
+.LastColumn{
+	width:200px;
+}
+.LastColumn img{
+	width:100%;
+}
